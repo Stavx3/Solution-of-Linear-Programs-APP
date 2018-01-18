@@ -11,7 +11,7 @@ Running this example on the app:
 
 Opening window:
 
-<img src="https://user-images.githubusercontent.com/17571148/35097335-5657f456-fc58-11e7-9d11-b0dc4acad104.jpeg" width="200" height="250">
+<img src="https://user-images.githubusercontent.com/17571148/35097335-5657f456-fc58-11e7-9d11-b0dc4acad104.jpeg" width="250" height="350">
 
 In this stage you need to enter the number of variables, number of constraints and chose between a Minimum or a Maximum problem.
 
