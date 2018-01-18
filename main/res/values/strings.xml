@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Solution Of Linear Programs</string>
+    <string name="varnum">Enter number of variables</string>
+    <string name="numcon">Enter number of constraints</string>
+    <string name="enternum">Enter Number</string>
+    <string name="minmax">Min/Max: </string>
+    <string name="min">Minimum </string>
+    <string name="max">Maximum </string>
+    <string name="next">Next </string>
+
+
+
+</resources>
